@@ -64,46 +64,33 @@ Para mais informações ou suporte, entre em contato através de:
 
 # ENGLISH VERSION
 
-## Introduction
+Welcome to "Essential Soft Skills," a platform designed to help you discover and enhance key interpersonal skills crucial for personal and professional success. In this project, you will find a list of essential soft skills and a search tool to explore each of them.
 
-Welcome to the Essential Soft Skills guide! Soft skills are interpersonal competencies that are not directly related to technical abilities but are crucial for personal and professional success. These skills help you communicate effectively, collaborate with others, and adapt to new situations.
+## Description
 
-Discover the key soft skills needed to achieve personal and professional success:
-- Communication
-- Teamwork
-- Empathy
-- Conflict Management
-- Leadership
-- Problem Solving
-- Critical Thinking
-
-Use the search field above to explore these topics and enhance your soft skills.
+Soft skills are interpersonal abilities crucial for effective communication, collaboration, and adapting to new situations. This project provides an overview of the main soft skills and allows you to search for relevant information about each one.
 
 ## How to Use
 
-1. Access the project directly via this link:
-   [View Project - Essential Soft Skills](https://soft-skills-essenciais.vercel.app/)
-
-2. Use the search field to look for specific soft skills or topics.
-
-3. Explore the suggestions and descriptions provided to learn more about each skill.
+1. **Access the Project**: [View Project - Essential Soft Skills](https://soft-skills-essenciais.vercel.app/)
+2. **Search Soft Skills**: Use the input field to search for specific soft skills.
+3. **Explore the Content**: Browse the list of soft skills and learn more about each one.
 
 ## Deploy
 
-You can view the live project here:
-[https://github.com/igormoraestech/essential-soft-skills](https://soft-skills-essenciais.vercel.app/)
+Access the project directly at this link: [Essential Soft Skills](https://soft-skills-essenciais.vercel.app/)
 
 ## Technologies Used
 
-- HTML5
-- CSS3
+- **HTML5**: Page structure and markup.
+- **CSS3**: Styling and layout.
+- **JavaScript**: Functionality and interactivity.
 
 ## Features
 
-- **Search Functionality**: Find specific soft skills or topics using the search field.
-- **Descriptive Content**: Detailed information about each soft skill.
-- **Responsive Design**: Adapted for both mobile devices and desktops.
-- **Custom Icons**: Includes various favicons for different devices.
+- **Search Field**: Search for soft skills directly on the page.
+- **Detailed Information**: Discover details about communication, teamwork, empathy, and more.
+- **Attractive Design**: Visually pleasing and user-friendly interface.
 
 ## Local Installation
 
@@ -111,26 +98,24 @@ To clone and run the project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/igormoraestech/essential-soft-skills.git
+   git clone https://github.com/IgorMoraesTech/soft-skills-essenciais.git
    ```
-
 2. Navigate to the project directory:
    ```bash
-   cd essential-soft-skills
+   cd SoftSkillsEssenciais
    ```
-
 3. Open the `index.html` file in your web browser.
 
 ## Design and User Experience
 
-- **Clean and Modern Design**: Simple interface for easy navigation.
-- **Dark Mode**: Dark background designed to reduce eye strain.
-- **Responsive and Accessible**: Works perfectly on both mobile and desktop devices.
-- **Centralized Content**: Ensures that the main content is easily accessible and readable.
+- **Clean and Modern Design**: Simplified and intuitive interface.
+- **Dynamic Background**: Background image that adjusts automatically.
+- **Responsive and Accessible**: Adapted for various screen sizes, including mobile devices and desktops.
+- **Consistent Typography**: 'Poppins' font for comfortable reading.
 
 ## Contact
 
-For more information, you can contact me via:
+For more information or support, reach out through:
 
 - [LinkedIn](https://www.linkedin.com/in/igormoraestech/)
 - [Instagram](https://instagram.com/igormoraestech)
