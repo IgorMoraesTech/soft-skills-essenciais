@@ -60,6 +60,8 @@ Para mais informações ou suporte, entre em contato através de:
 - [YouTube](https://www.youtube.com/@IgorMoraesTech)
 - [E-mail](mailto:igormoraestech@gmail.com)
 
+&copy; 2024 Igor Moraes Tech. All rights reserved.
+
 ---
 
 # ENGLISH VERSION
