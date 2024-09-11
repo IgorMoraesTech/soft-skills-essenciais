@@ -189,11 +189,12 @@ footer a:hover {
 /* Estilo para quando a seção de pesquisa estiver fixa no topo */
 .pesquisa.fixa {
     position: fixed; /* Torna a seção de pesquisa fixa no topo */
+    margin-top: auto;
     top: 0; /* Alinha ao topo da página */
     left: 0; /* Alinha à esquerda da página */
     width: 100%; /* Ocupa toda a largura da tela */
     background-color: #2C2C34; /* Cor de fundo da seção fixa */
-    padding: 1rem; /* Espaçamento interno */
+    padding: 0.5rem; /* Espaçamento interno */
     box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.5); /* Sombra para destaque */
     z-index: 1000; /* Garante que a seção esteja acima de outros elementos */
 }
