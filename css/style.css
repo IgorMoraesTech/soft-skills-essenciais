@@ -189,7 +189,7 @@ footer a:hover {
 /* Estilo para quando a seção de pesquisa estiver fixa no topo */
 .pesquisa.fixa {
     position: fixed; /* Torna a seção de pesquisa fixa no topo */
-    margin-top: auto;
+    margin-top: auto; /* Ajuste para posição vertical do menu fixo*/
     top: 0; /* Alinha ao topo da página */
     left: 0; /* Alinha à esquerda da página */
     width: 100%; /* Ocupa toda a largura da tela */
