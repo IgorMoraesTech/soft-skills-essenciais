@@ -120,7 +120,7 @@ To clone and run the project locally:
 For more information or support, reach out through:
 
 - [LinkedIn](https://www.linkedin.com/in/igormoraestech/)
-- [Instagram](https://instagram.com/igormoraestech)
+- [Instagram](https://instagram.com/igor_path)
 - [YouTube](https://www.youtube.com/@IgorMoraesTech)
 - [Email](mailto:igormoraestech@gmail.com)
 
